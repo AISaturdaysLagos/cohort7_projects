@@ -2,15 +2,16 @@
 
 # Teams
 Our students are distributed into different teams as listed below. Individual folder contains the project proposals for each team, and details about the team structure.
->> REALICE by Johnson-Sirleaf
 
->> Rent Prediction in Nigeria by Kaunda
+> REALICE by Johnson-Sirleaf
 
->> Closest Blood Bank by Machel
+> Rent Prediction in Nigeria by Kaunda
 
->> iRecommend by Sankara
+> Closest Blood Bank by Machel
 
->> Nigerian Food Price Forecasting by Selassie
+> iRecommend by Sankara
+
+> Nigerian Food Price Forecasting by Selassie
 
 
 ## Cohort7 Classes and Practicals
