@@ -6,10 +6,8 @@ Team Jonson-Sirleaf's project is titled Realice, coined from "Real Police", thei
 
 
 ## Team Members
-| Name | Position | 
-| ---- | ---- |
-| Moshood Mustapha | Team Lead
+- Moshood Mustapha (Team Lead)
  
 
-## Team Mentors
+## Team Mentor(s)
 - Tejumade Afonja 
