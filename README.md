@@ -3,15 +3,15 @@
 # Teams
 Our students are distributed into different teams as listed below. Individual folder contains the project proposals for each team, and details about the team structure.
 
-> [REALICE](/johnson-sirleaf/team_johnson_sirleaf_project_proposal.pdf) by Johnson-Sirleaf
+> [REALICE](/johnson-sirleaf/team_johnson_sirleaf_project_proposal.pdf) by Team Johnson-Sirleaf
 
-> [Rent Prediction in Nigeria](/kaunda/team_kaunda_project_proposal.pdf) by Kaunda
+> [Rent Prediction in Nigeria](/kaunda/team_kaunda_project_proposal.pdf) by Team Kaunda
 
-> [Easy Buy Recommendation System](/machel/team_machel_project_proposal.pdf) by Machel
+> [Easy Buy Recommendation System](/machel/team_machel_project_proposal.pdf) by Team Machel
 
-> [iRecommend](/sankara/team_sankara_project_proposal.pdf) by Sankara
+> [iRecommend](/sankara/team_sankara_project_proposal.pdf) by Team Sankara
 
-> [Nigerian Food Price Forecasting](/selassie/team_selassie_project_proposal.pdf) by Selassie
+> [Nigerian Food Price Forecasting](/selassie/team_selassie_project_proposal.pdf) by Team Selassie
 
 
 ## Cohort7 Classes and Practicals
