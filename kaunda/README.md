@@ -6,13 +6,8 @@ Team Kaunda's project aims to help rent seekers predict the price of an apartmen
 
 
 ## Team
-- Femi Adedugbe 
-- Uthman Allison
-- Osayi Iyayi
-- Riliwan Bello
-- Joseph Aduwi 
-- Nomaseh Solomon
- 
+| Name | Position | 
+| ---- | ---- |
 
 ## Team Mentor(s)
 - 

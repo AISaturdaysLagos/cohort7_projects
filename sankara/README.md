@@ -3,7 +3,7 @@
 
 
 ## Project 
-
+Team Sankara is building a multi-criteria recommendation system to maps users' preferences with multiple aspects of products. 
 
 
 ## Team Members

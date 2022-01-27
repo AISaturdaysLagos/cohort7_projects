@@ -4,6 +4,7 @@
 
 
 ## Project 
+Team Machel is building a recommendation system that help consumers identify eCommerce sites that offer the best value for their modey as well as restore confidence in online purchases. 
 
 
 
@@ -14,4 +15,5 @@
  
 
 ## Team Mentors
+
 

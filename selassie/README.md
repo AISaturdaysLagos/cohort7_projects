@@ -4,7 +4,7 @@
 
 
 ## Project 
-
+Team selassie wants to assist Nigerians with low-income  to plan their food expenditure by building a machine learning model that can predict the price range of food items in different parts of the country.
 
 
 ## Team Members
